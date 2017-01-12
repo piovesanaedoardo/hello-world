@@ -2,5 +2,4 @@
 Primo repository
 
 Ciao,
-Sono Edoardo e faccio stage nell'azienda OpenIndustry.it
-Ciao
+Sono Edoardo, faccio stage nell'azienda OpenIndustry.it
